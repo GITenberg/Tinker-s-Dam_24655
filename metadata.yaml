@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '26650'
     url: http://www.gutenberg.org/2009/agents/26650
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24655#Tinker-s-Dam
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-02-20'
 gutenberg_type: Text
